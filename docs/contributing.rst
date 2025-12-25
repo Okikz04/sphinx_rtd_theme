@@ -65,7 +65,12 @@ can be used to test built assets:
 .. _Wyrm: http://www.github.com/snide/wyrm/
 .. _Sphinx: http://www.sphinx-doc.org/en/stable/
 
+build succeeded, 10 warnings.
 
+The HTML pages are in .tox/py312-sphinx74/tmp/html.
+___________________________ summary ___________________________
+  py312-sphinx74: commands succeeded
+  congratulations :)
 .. _dockerized-build:
 
 Dockerized development
